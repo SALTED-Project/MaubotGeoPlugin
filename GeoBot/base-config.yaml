@@ -1,0 +1,2 @@
+max_distance: 1
+publish_service_entities: "http://publish_service_ip:8003/broker/entities"

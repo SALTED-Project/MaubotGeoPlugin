@@ -1,0 +1,9 @@
+maubot: 0.1.0
+id: salted.kybeidos.geobot
+version: 1.0.1
+license: MIT
+modules:
+  - geobot
+main_class: GeoBot
+extra_files:
+  - base-config.yaml
